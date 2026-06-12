@@ -48,4 +48,4 @@ for i in list:
         if converted_val < 0:
             print('negative value')
     except ValueError:
-        print('Enter  a  string !!! expecting a number')
+        print('Entered  a  string !!! expecting a number')
